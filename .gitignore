@@ -1,0 +1,5 @@
+# graphify generated artifacts (rebuilt from source; machine-specific)
+.graphify/
+graphify-out/
+.graphify_*.json
+.graphify_python
