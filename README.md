@@ -13,7 +13,7 @@ token savings come from.
 .claude/skills/graphify/
   SKILL.md              # the /graphify skill (progressive-disclosure core)
   references/           # loaded on demand: query, update, exports, extraction-spec, …
-  .graphify_version     # pins the skill version (0.9.25)
+  .graphify_version     # pins the skill version (0.9.89)
 CLAUDE.md               # always-on nudge: prefer `graphify query` for codebase Qs
 ```
 
