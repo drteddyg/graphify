@@ -14,6 +14,7 @@ token savings come from.
   SKILL.md              # the /graphify skill (progressive-disclosure core)
   references/           # loaded on demand: query, update, exports, extraction-spec, …
   .graphify_version     # pins the skill version (0.9.89)
+  LICENSE, LICENSE-MIT, NOTICE   # upstream licence files (Apache-2.0 §4)
 CLAUDE.md               # always-on nudge: prefer `graphify query` for codebase Qs
 ```
 
@@ -50,4 +51,5 @@ graphify claude install --project --strict
 ```
 
 ---
-Upstream: https://github.com/Graphify-Labs/graphify · License: see upstream.
+Upstream: https://github.com/Graphify-Labs/graphify · License: Apache-2.0 (older parts also MIT).
+`LICENSE`, `LICENSE-MIT` and `NOTICE` ship in `.claude/skills/graphify/`.
